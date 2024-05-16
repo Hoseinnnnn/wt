@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import streamlit as st
 
+st.write("how are you")
+'''
 # Render a hyperlink that opens in the same tab
 #st.markdown("[Click here to visit Streamlit's website](https://streamlit.io/)", unsafe_allow_html=True)
 
@@ -106,4 +108,4 @@ def main():
     st.write("This is a Streamlit app with a custom background image.")
 
 if __name__ == "__main__":
-    main()
+    main()'''
